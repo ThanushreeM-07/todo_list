@@ -16,6 +16,6 @@ A simple, mobile-friendly To-Do List built with HTML, CSS, and JavaScript—with
 3) JavaScript 
 
 🧰 How to Run
-1) Clone this repo: 
+1) Clone this repo: https://github.com/ThanushreeM-07/todo_list.git 
 2) Open index.html in any browser
 
